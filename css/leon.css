@@ -166,7 +166,7 @@ body {
 /* end header */
 /* start landing section */
 .landing {
-    background-image: url(./image/pexels-pixabay-355770.jpg);
+    background-image: url(../image/pexels-pixabay-355770.jpg);
     background-size: cover;
     height: calc( 100vh - 64px);
     position: relative;
